@@ -58,10 +58,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -75,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634137342114</updated>
       <workItem from="1634137343878" duration="3737000" />
-      <workItem from="1634502800971" duration="2904000" />
+      <workItem from="1634502800971" duration="3533000" />
+      <workItem from="1634588058287" duration="1494000" />
     </task>
     <servers />
   </component>
