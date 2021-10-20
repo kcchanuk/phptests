@@ -14,6 +14,7 @@
         "php": "^7.4|^8.0",
         "phpunit/phpunit": "^9.5",
         "ext-curl": "*",
-        "ext-json": "*"
+        "ext-json": "*",
+        "ext-bcmath": "*"
     }
 }
